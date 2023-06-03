@@ -7,7 +7,7 @@ En este repositorio podrán encontrar **algoritmos** secuenciales, condicionales
 
 > **Autor:** Estos algoritmos fueron resueltos por **bl4zek**, se encontrarán en constantes cambios aplicando buenas prácticas y optimizar el código.
 
-Estudiante de la carrera de Software en la Universidad llamada **Escuela Superior Politécnica de Chimborazo** > ESPOCH
+Estudiante de la carrera de Software en la **Escuela Superior Politécnica de Chimborazo** > ESPOCH
 
 ## Authors
 
