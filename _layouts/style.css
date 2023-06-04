@@ -60,7 +60,7 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-image: url("../img/background.jpeg");
+    background-image: url("background.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     color: #000;
